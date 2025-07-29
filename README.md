@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">Full-Stack Developer | Backend Focused | Open to Work Tech Stack: Python, FastAPI, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, React, TypeScript, Git, Vercel, Clerk, Tailwind CSS</h3>
+<h3 align="center">Full-Stack Developer | Backend Focused | Open to Work</h3>
 
 - 🌱 I’m currently learning **mastering FastAPI to become a backend-focused fullstack developer.**
 
