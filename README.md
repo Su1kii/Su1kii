@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | Backend Focused | Open to Work<br>🌱 I’m currently learning mastering FastAPI to become a backend-focused fullstack developer.<br><br>👨‍💻 All of my projects are available at https://portfolio-ts1q.vercel.app/<br><br>📫 How to reach me stevennava749@gmail.com
+Backend Engineer | Open to Work<br>🌱 I’m currently learning mastering FastAPI to become a backend-focused fullstack developer.<br><br>👨‍💻 All of my projects are available at https://portfolio-ts1q.vercel.app/<br><br>📫 How to reach me stevennava749@gmail.com
 
 
 ## 🌐 Socials:
