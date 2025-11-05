@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Engineer | Open to Work<br><br>🔹I specialize in building scalable APIs, secure authentication, and database-driven systems, with supporting fullstack experience for end-to-end functionality.<br><br>🌱 I’m currently expanding my skills by learning Java & Spring Boot, along with AWS and Docker, to strengthen my backend engineering expertise.<br><br>👨‍💻 Check out my projects (FastAPI, Node.js, Prisma, PostgreSQL, Stripe, etc.) at:<br>➡️ portfolio-ts1q.vercel.app<br><br>📫 Reach me at stevennava749@gmail.com
+Backend Engineer | Open to Work<br><br>🔹I specialize in building scalable APIs, secure authentication, and database-driven systems, with supporting fullstack experience for end-to-end functionality.<br><br>🌱 I’m currently expanding my skills by learning Java & Spring Boot, along with AWS and Docker, to strengthen my backend engineering expertise.<br><br>👨‍💻 Check out my projects (FastAPI, Node.js, Prisma, PostgreSQL, Stripe, etc.) at:<br>➡️ https://backend-portfolio-three-sigma.vercel.app<br><br>📫 Reach me at stevennava749@gmail.com
 
 
 
