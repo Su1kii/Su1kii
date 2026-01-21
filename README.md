@@ -1,10 +1,11 @@
 # 💫 About Me:
-Backend Engineer building production-grade systems for real businesses.<br><br>
-• Scalable REST APIs, secure auth, payments, and data-heavy backends<br><br>
-• Experience with real users, real revenue, and live deployments<br><br>
+Backend Engineer specializing in **Payments + Automation** — the systems that move money safely and eliminate manual work.<br><br>
+
+• Build production-style backend services: **billing/invoicing, payment workflows, webhooks, safe retries (idempotency), scheduled jobs, audit logs**<br><br>
+• Shipped systems for real businesses with real users and live deployments<br><br>
 • Java (Spring Boot), Python (FastAPI), Node.js, PostgreSQL, AWS, Docker<br><br>
 
-🔗 Portfolio: https://backend-portfolio-three-sigma.vercel.app
+🔗 Portfolio: https://backend-portfolio-three-sigma.vercel.app<br>
 📫 stevennava749@gmail.com
 
 
