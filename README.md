@@ -6,7 +6,7 @@ Backend Engineer specializing in **Payments + Automation** — the systems that 
 • Java (Spring Boot), Python (FastAPI), Node.js, PostgreSQL, AWS, Docker<br><br>
 
 🔗 Portfolio: https://backend-portfolio-three-sigma.vercel.app<br>
-📫 stevennava749@gmail.com
+📫 Email: stevennava749@gmail.com
 
 
 
