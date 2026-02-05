@@ -3,7 +3,7 @@ Backend Engineer specializing in **Payments + Automation** — the systems that 
 
 • Build production-style backend services: **billing/invoicing, payment workflows, webhooks, safe retries (idempotency), scheduled jobs, audit logs**<br><br>
 • Shipped systems for real businesses with real users and live deployments<br><br>
-• Java (Spring Boot), Python (FastAPI), Node.js, PostgreSQL, AWS, Docker<br><br>
+• Python (FastAPI), Java (Spring Boot), Node.js, PostgreSQL, AWS, Docker<br><br>
 
 🔗 Portfolio: [https://steven-en.vercel.app/](https://steven-en.vercel.app/)<br>
 📫 Email: stevennava749@gmail.com
