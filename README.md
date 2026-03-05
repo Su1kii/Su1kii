@@ -1,59 +1,41 @@
-# 💫 About Me:
-Backend Engineer specializing in **Payments + Automation** — the systems that move money safely and eliminate manual work.<br><br>
+# Steven Echeverria — Backend Engineer
 
-• Build production-style backend services: **billing/invoicing, payment workflows, webhooks, safe retries (idempotency), scheduled jobs, audit logs**<br><br>
-• Shipped systems for real businesses with real users and live deployments<br><br>
-• Python (FastAPI), Java (Spring Boot), Node.js, PostgreSQL, AWS, Docker<br><br>
+Specializing in **payment infrastructure, distributed systems, and backend architecture** — building systems that handle real money, real users, and real consequences.
 
-🔗 Portfolio: [https://steven-en.vercel.app/](https://steven-en.vercel.app/)<br>
+- 🏗️ Shipped production platforms for real businesses with live users and active payments
+- 💳 Deep experience with **Stripe webhooks, idempotency, event deduplication, and retry logic**
+- ⚙️ Build enterprise-grade backends with **queues, workers, async processing, and role-based security**
+- 🔐 JWT authentication, refresh token rotation, RBAC, and TOTP 2FA
+- 📦 Java (Spring Boot) · Python (FastAPI) · PostgreSQL · RabbitMQ · Redis · Docker · Flyway
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| [Pura Vida Entertainment](https://pura-vida-entertainment.vercel.app/) | Java, Spring Boot, React, Stripe, RabbitMQ, Redis | Enterprise studio booking and music label platform with async processing, 2FA, and idempotent payments |
+| [Five Star HVAC](https://ductllc.vercel.app/) | Python, FastAPI, PostgreSQL, Stripe, Docker | Full service management platform with booking automation, RBAC, and live payments |
+| [Original Design Dealership](https://orginal-design-dealership.vercel.app/) | Next.js, TypeScript, PostgreSQL, Stripe | Dealership management platform with inventory, contracts, and webhook-driven payment confirmation |
+
+> All three projects are built for real businesses with real users and real revenue. Not demos or side projects.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Java · Python · TypeScript · JavaScript · SQL
+
+**Backend:** Spring Boot · FastAPI · Node.js · REST APIs · SQLAlchemy
+
+**Payments & Auth:** Stripe · JWT · OAuth2 · RBAC · 2FA (TOTP)
+
+**Infrastructure:** PostgreSQL · RabbitMQ · Redis · Docker · Flyway · CI/CD
+
+---
+
+🔗 Portfolio: [steven-en.vercel.app](https://steven-en.vercel.app/)
 📫 Email: stevennava749@gmail.com
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/steven-echeverria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stevennava749@gmail.com) 
-
-# 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### Backend Frameworks / Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-
-### Databases / Storage
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-
-### Frontend (Supporting)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### DevOps / Cloud / Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
-
-### Authentication / Security
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/steven-echeverria)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stevennava749@gmail.com)
