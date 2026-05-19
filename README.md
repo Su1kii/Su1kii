@@ -2,6 +2,8 @@
 
 Specializing in **payment infrastructure, distributed systems, and backend architecture** — building systems that handle real money, real users, and real consequences.
 
+How I approach a system: constraints and failure modes first, schema second, endpoints last. The stack follows once the shape of the problem is clear.
+
 - 🏗️ Shipped production platforms for real businesses with live users and active payments
 - 💳 Deep experience with **Stripe webhooks, idempotency, event deduplication, and retry logic**
 - ⚙️ Build enterprise-grade backends with **queues, workers, async processing, and role-based security**
