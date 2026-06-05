@@ -1,6 +1,6 @@
 # Steven Echeverria — Backend Engineer
 
-Specializing in **payment infrastructure, distributed systems, and backend architecture** — building systems that handle real money, real users, and real consequences.
+Specializing in **payment infrastructure, distributed systems, and backend architecture** — building systems that handle real money, real users, and real scale.
 
 How I approach a system: constraints and failure modes first, schema second, endpoints last. The stack follows once the shape of the problem is clear.
 
@@ -8,7 +8,7 @@ How I approach a system: constraints and failure modes first, schema second, end
 - 💳 Deep experience with **Stripe webhooks, idempotency, event deduplication, and retry logic**
 - ⚙️ Build enterprise-grade backends with **queues, workers, async processing, and role-based security**
 - 🔐 JWT authentication, refresh token rotation, RBAC, and TOTP 2FA
-- 📦 Java (Spring Boot) · Python (FastAPI) · PostgreSQL · RabbitMQ · Redis · Docker · Flyway
+- ☁️ Designing for scale — RFC 7807 error contracts, Redis cache-aside, Kafka event streaming, Kubernetes autoscaling
 
 ---
 
@@ -16,23 +16,26 @@ How I approach a system: constraints and failure modes first, schema second, end
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [Pura Vida Entertainment](https://pura-vida-entertainment.vercel.app/) | Java, Spring Boot, React, Stripe, RabbitMQ, Redis | Enterprise studio booking and music label platform with async processing, 2FA, and idempotent payments |
-| [Five Star HVAC](https://ductllc.vercel.app/) | Python, FastAPI, PostgreSQL, Stripe, Docker | Full service management platform with booking automation, RBAC, and live payments |
+| 🔧 **FitTrack Pro** *(in progress — live URL coming soon)* | Java 21, Spring Boot, PostgreSQL, Redis, Kafka, AWS EKS, Kubernetes | Production-grade fitness and nutrition API designed for 20M users. RFC 7807 error handling, JWT auth with refresh token rotation, Kafka event streaming, Redis cache-aside, Stripe payments, k6 load tested at 1,000 concurrent users. Full ADR documentation and DEVLOG. |
+| [Pura Vida Entertainment](https://pura-vida-entertainment.vercel.app/) | Java, Spring Boot, React, Stripe, RabbitMQ, Redis | Enterprise studio booking and music label platform with async processing, TOTP 2FA, and idempotent Stripe webhooks |
+| [Five Star HVAC](https://ductllc.vercel.app/) | Python, FastAPI, PostgreSQL, Stripe, Docker | Full service management platform with scheduling automation, RBAC, and live payments |
 | [Original Design Dealership](https://orginal-design-dealership.vercel.app/) | Next.js, TypeScript, PostgreSQL, Stripe | Dealership management platform with inventory, contracts, and webhook-driven payment confirmation |
 
-> All three projects are built for real businesses with real users and real revenue. Not demos or side projects.
+> Pura Vida, Five Star, and Original Design are built for real businesses with real users and real revenue. Not demos.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:** Java · Python · TypeScript · JavaScript · SQL
-
-**Backend:** Spring Boot · FastAPI · Node.js · REST APIs · SQLAlchemy
-
+**Backend:** Spring Boot · FastAPI · Node.js · REST APIs · GraphQL · SQLAlchemy
 **Payments & Auth:** Stripe · JWT · OAuth2 · RBAC · 2FA (TOTP)
-
-**Infrastructure:** PostgreSQL · RabbitMQ · Redis · Docker · Flyway · CI/CD
+**Databases:** PostgreSQL · Redis
+**Messaging:** RabbitMQ · Apache Kafka
+**Infrastructure:** Docker · Flyway · GitHub Actions CI/CD
+**Cloud & DevOps:** AWS (EKS · RDS · ElastiCache · MSK) · Kubernetes · Linux (Ubuntu/WSL2)
+**Testing:** JUnit 5 · Mockito · Testcontainers
+**Observability:** AWS CloudWatch · X-Ray · k6 Load Testing
 
 ---
 
