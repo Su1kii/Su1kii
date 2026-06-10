@@ -18,7 +18,7 @@ I've shipped production backends for three paying clients. All three are live wi
 
 ## 🚧 Current Build — FitTrack Pro
 
-Production-grade fitness and nutrition API. Designing for 20M users from day one, building toward that design systematically.
+Production-grade fitness and nutrition API. Designing with scalability in mind from day one, building toward that design systematically.
 
 **What's done:**
 - ✅ RFC 7807 error contracts across all endpoints — no inconsistent error shapes, no leaking stack traces
@@ -26,7 +26,7 @@ Production-grade fitness and nutrition API. Designing for 20M users from day one
 - ✅ 14-table PostgreSQL schema designed upfront with Flyway migrations — no manual schema changes, ever
 - ✅ Architecture Decision Records documenting every major technology choice
 
-**Stack:** Java 21 · Spring Boot 3 · PostgreSQL · Redis · Kafka · Docker · AWS EKS · Kubernetes
+**Stack:** Java 21 · Spring Boot 3 · PostgreSQL · Redis · Docker · AWS
 
 → [github.com/Su1kii/Calorie-Tracker](https://github.com/Su1kii/Calorie-Tracker)
 
@@ -36,17 +36,19 @@ Production-grade fitness and nutrition API. Designing for 20M users from day one
 
 **Languages:** Java · Python · TypeScript · JavaScript · SQL
 
-**Backend:** Spring Boot · FastAPI · Node.js · REST APIs · GraphQL
+**Backend:** Spring Boot · FastAPI · Node.js · REST APIs
 
 **💳 Payments & Auth:** Stripe webhooks · idempotency · JWT · OAuth2 · RBAC · TOTP 2FA
 
-**🗄️ Data:** PostgreSQL · Redis (cache-aside) · RabbitMQ · Apache Kafka
+**🗄️ Data:** PostgreSQL · Redis (cache-aside) · RabbitMQ
 
 **Infrastructure:** Docker · Flyway · GitHub Actions CI/CD · Linux (Ubuntu/WSL2)
 
-**☁️ Cloud:** AWS (EKS · RDS · ElastiCache) · Kubernetes
+**☁️ Cloud:** AWS (RDS · EC2 · ElastiCache)
 
 **Testing:** JUnit 5 · Mockito · Testcontainers
+
+**Familiar:** Kafka · Kubernetes · GraphQL · MongoDB
 
 ---
 
