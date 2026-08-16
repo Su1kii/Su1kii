@@ -1,6 +1,6 @@
 # Steven Echeverria — Backend Engineer
 
-I've shipped production backends for three paying clients. All three are live with real users and real revenue. I started coding in August 2024.
+I've shipped production backends for three paying clients. All three are live with real users and real revenue.
 
 > ⚙️ **How I approach a system:** constraints and failure modes first, schema second, endpoints last. The stack follows once the shape of the problem is clear.
 
